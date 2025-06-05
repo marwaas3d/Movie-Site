@@ -230,16 +230,6 @@ header .logo {
   color: var(--bg-color);
 }
 /* footer */
-/* copy */
-.copy {
-  color: var(--bg-color);
-  font-size: 1.1rem;
-}
-.copy span {
-  color: var(--main-color);
-  cursor: pointer;
-}
-/* copy */
 
 /* Resbonsive */
 @media (max-width:1080px) {
